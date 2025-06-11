@@ -14,12 +14,12 @@ Provides tools to connect to the BESO CCD server over TCP and issue commands via
 
 2. Install in editable mode:
     ```bash
-    pip install -e .
+    python -m pip install -e .
     ```
 
    Or build:
     ```bash
-    pip install build
+    python -m pip install build
     python -m build
     ```
 
